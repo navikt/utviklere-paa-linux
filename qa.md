@@ -2,7 +2,7 @@
 Fill in the information as shown in the screenshot below:![wifi.png](wifi.png)
 
 
-## How do I print from FA1?
+## How do I print from Fyrstikkallèen 1?
 https://github.com/navikt/ny-i-nav/blob/main/ny-unix.md#skrive-ut
 https://github.com/navikt/ny-i-nav/blob/main/add_nav_printers.sh
 
@@ -16,9 +16,7 @@ UEFI BIOS Version: R2XET35W (1.15)
 This unit comes without an operating system installed.
 Before you begin:
 
-- Have a USB flash drive ready containing the latest Ubuntu LTS (the Service Desk can lend out empty USB drives).
-
-Før man installerer Linux på laptopen så må man enable SecureBoot:
+- Have a USB flash drive ready containing the latest Ubuntu LTS (the Service Desk at Fyrstikkallèen 1 can lend out empty USB drives).
 
 > [!CAUTION]
 > Before installing Linux on the laptop, you must enable Secure Boot:
@@ -38,13 +36,13 @@ Steps:
 6. Insert the flash drive containing the latest Ubuntu LTS and boot the computer from it.
 7. During Ubuntu setup, select Try Ubuntu.
 8. Press CTRL+ALT+T to open Terminal
-9. Verifiser at SecureBoot er enabled:
+9. Verify that SecureBoot is enabled:
 ```
 ubuntu@ubuntu:~$ sudo mokutil --sb-state 
 SecureBoot enabled
 ```
 10. Start Ubuntu installation
-11. Installer Ubuntu med Full disk encryption [FDE] (https://documentation.ubuntu.com/security/security-features/storage/encryption-full-disk/)
+11. Install Ubuntu with full disk encryption [FDE] (https://documentation.ubuntu.com/security/security-features/storage/encryption-full-disk/)
     1. "Encrypt with passphrase" suitable for most people
     2. "Use hardware-backed encryption"[hardware-backed-disk-encryption](https://ubuntu.com/desktop/docs/en/latest/explanation/hardware-backed-disk-encryption/) if you manage to get it working
 12. Go through the other steps
@@ -56,6 +54,6 @@ bruker@maskin:~$ sudo dmesg | grep -i secureboot
 [    0.003709] secureboot: Secure boot enabled
 ```
 14. Install naisdevice and check that Kolide is satisfied: https://doc.nais.io/operate/naisdevice/how-to/install/
-15. Connect to naisdevice. You should now have access to NAV resources on Ubuntu.
+15. Connect to naisdevice. You should now have access to Nav resources on Ubuntu.
 16. Verify Outlook works: https://outlook.office365.com/mail/
 
