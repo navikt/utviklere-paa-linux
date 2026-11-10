@@ -2,5 +2,5 @@
 
 Welcome to our documentation.
 
-- [Getting started](getting-started.md)
-- [Troubleshooting](troubleshooting.md)
+- [Order a Linux laptop](order-a-linux-laptop.md)
+- [QA](qa.md)
