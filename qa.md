@@ -57,3 +57,21 @@ bruker@maskin:~$ sudo dmesg | grep -i secureboot
 15. Connect to naisdevice. You should now have access to Nav resources on Ubuntu.
 16. Verify Outlook works: https://outlook.office365.com/mail/
 
+
+## Zoom repo for easier installation/update
+```
+# 0. prereqs
+sudo apt-get install ca-certificates curl apt-transport-https gnupg
+
+# 1. add repo signing key
+curl -sfSL "https://europe-north1-apt.pkg.dev/doc/repo-signing-key.gpg" | sudo dd of="/etc/apt/keyrings/nais-ppa-zoom.asc"
+
+# 2. add repository
+echo "deb [signed-by=/etc/apt/keyrings/nais-ppa-zoom.asc] https://europe-north1-apt.pkg.dev/projects/nais-ppa zoom main" | sudo tee /etc/apt/sources.list.d/nais-ppa-zoom.list
+
+# 3. update repo
+sudo apt update
+
+# 4. install zoom
+sudo apt install zoom
+```
