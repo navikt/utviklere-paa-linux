@@ -1,6 +1,6 @@
 ## Bestillingsinstruksjoner
 1. Be nærmeste leder om å sende en e-post til Laila.Kaland@nav.no med følgende melding:
-```text
+~~~text
 Hei!
 
 Jeg ønsker å bestille følgende Linux-PC til min ansatt $fornavn $etternavn
@@ -11,7 +11,7 @@ Godkjenner: $seksjonsleder
 Varemottaker: $nærmesteleder
 
 Mvh $nærmesteleder
-```
+~~~
 
 ## PC-er
 Du kan fritt velge en PC fra Dustin, så lenge den kan kjøre kun Linux og fungerer med [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/).
