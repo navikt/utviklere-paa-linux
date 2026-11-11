@@ -15,7 +15,7 @@ Mvh $nærmesteleder
 
 ## PC-er
 Du kan fritt velge en PC fra Dustin, så lenge den kan kjøre kun Linux og fungerer med [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/).
-Vi anbefaler at du sjekker at PC-en finnes i denne listen: [certified ubunu laptop](https://ubuntu.com/certified/search?category=Laptop)
+Vi anbefaler at du sjekker at PC-en finnes i denne listen: [certified ubuntu laptop](https://ubuntu.com/certified/search?category=Laptop)
 
 Be også nærmeste leder om å godkjenne prisen på PC-en.
 
