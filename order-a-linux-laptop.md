@@ -1,10 +1,9 @@
-## Order Instructions
-1.Ask your immediate manager(nærmesteleder) 
-to send the following mail to Laila.Kaland@nav.no with the following message:
+## Bestillingsinstruksjoner
+1. Be nærmeste leder om å sende en e-post til Laila.Kaland@nav.no med følgende melding:
 ```
 Hei!
 
-Jeg ønsker å bestille følgende linux pc til min ansatt $fornavn $etternavn
+Jeg ønsker å bestille følgende Linux-PC til min ansatt $fornavn $etternavn
 
 PC: https://www.dustin.no/product/5020066246/thinkpad-p14s-g6
 Koststed: $koststed.
@@ -14,15 +13,14 @@ Varemottaker: $nærmesteleder
 Mvh $nærmesteleder
 ```
 
-## PCs
-You are free to choose a pc from dustin, as long as it can run pure Linux and works with [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/)
-we recommend you see that your pc is in this list:
+## PC-er
+Du kan fritt velge en PC fra Dustin, så lenge den kan kjøre kun Linux og fungerer med [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/).
+Vi anbefaler at du sjekker at PC-en finnes i denne listen:
 https://ubuntu.com/certified/search?category=Laptop
 
-Also ask your immediate manager(nærmesteleder) to verify the price of the pc is ok
+Be også nærmeste leder om å godkjenne prisen på PC-en.
 
 
 > [!NOTE]
->- Once you receive the machine, 
->- install Ubuntu—with full-disk encryption and TPM-backed SecureBoot—in order to enroll it in `naisdevice`.
->- On Linux, you are only permitted to log in to Nav systems via `naisdevice`.
+> - Når du mottar maskinen, må du installere Ubuntu med full diskkryptering og TPM-støttet Secure Boot for å registrere den i `naisdevice`.
+> - På Linux er det bare tillatt å logge inn på Navs systemer via `naisdevice`.
