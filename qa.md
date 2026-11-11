@@ -7,12 +7,13 @@ Fyll inn informasjonen som vist i skjermbildet nedenfor:
 
 
 ## Hvordan skriver jeg ut i Fyrstikkalléen 1?
-https://github.com/navikt/ny-i-nav/blob/main/ny-unix.md#skrive-ut
-https://github.com/navikt/ny-i-nav/blob/main/add_nav_printers.sh
+[skrive ut](https://github.com/navikt/ny-i-nav/blob/main/ny-unix.md#skrive-ut)
+[legge til printer script](
+https://github.com/navikt/ny-i-nav/blob/main/add_nav_printers.sh)
 
 
 ## Hvor finner jeg andre nyttige ressurser?
-https://navikt.github.io/ny-i-nav/ny-unix
+[ny-unix](https://navikt.github.io/ny-i-nav/ny-unix)
 
 
 ## Hvordan setter jeg opp Ubuntu på en Lenovo ThinkPad P16s G4?
@@ -57,9 +58,9 @@ bruker@maskin:~$ sudo dmesg | grep -i secureboot
 [    0.000000] secureboot: Secure boot enabled
 [    0.003709] secureboot: Secure boot enabled
 ```
-14. Installer naisdevice, og kontroller at alle kravene i Kolide er oppfylt: https://doc.nais.io/operate/naisdevice/how-to/install/
+14. Installer naisdevice, og kontroller at alle kravene i Kolide er oppfylt: [install naisdevice](https://doc.nais.io/operate/naisdevice/how-to/install/)
 15. Koble til naisdevice. Du skal nå ha tilgang til Navs ressurser fra Ubuntu.
-16. Kontroller at Outlook fungerer: https://outlook.office365.com/mail/
+16. Kontroller at Outlook fungerer: [outlook mail](https://outlook.office365.com/mail/)
 
 
 ## Pakkebrønn for enklere installasjon og oppdatering av Zoom
