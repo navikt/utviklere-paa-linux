@@ -2,5 +2,5 @@
 
 Velkommen til vår dokumentasjon.
 
-- [Order a Linux laptop](order-a-linux-laptop.md)
-- [Question and answer](qa.md)
+- [Hvordan bestille ein Linux laptop](order-a-linux-laptop.md)
+- [Spørsmål og svar](qa.md)
