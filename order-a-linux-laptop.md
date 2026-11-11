@@ -15,9 +15,13 @@ Mvh $nærmesteleder
 ```
 
 ## PCs
-You are free to choose a pc from dustin, as long as it can run pure linux, ask your immediate manager(nærmesteleder) to verify the price is ok
+You are free to choose a pc from dustin, as long as it can run pure linux.
+we recommend you see that your pc is in this list:
+https://ubuntu.com/certified/search?category=Laptop
+Alsp ask your immediate manager(nærmesteleder) to verify the price of the pc is ok
 
 
 > [!NOTE]
->- Once you receive the machine, you will likely need to reinstall Ubuntu—with full-disk encryption and TPM-backed SecureBoot—in order to enroll it in `naisdevice`.
+>- Once you receive the machine, 
+>- install Ubuntu—with full-disk encryption and TPM-backed SecureBoot—in order to enroll it in `naisdevice`.
 >- On Linux, you are only permitted to log in to Nav systems via `naisdevice`.
