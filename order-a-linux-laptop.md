@@ -15,7 +15,7 @@ Mvh $nærmesteleder
 ```
 
 ## PCs
-You are free to choose a pc from dustin, as long as it can run pure Linux and works with [naisdevice] (https://docs.nais.io/operate/naisdevice/how-to/install/)
+You are free to choose a pc from dustin, as long as it can run pure Linux and works with [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/)
 we recommend you see that your pc is in this list:
 https://ubuntu.com/certified/search?category=Laptop
 
