@@ -1,11 +1,11 @@
 ## Which distro should I choose?
 we recommend using: Using Gnome DE on latest Ubuntu LTS as it is the only offical supported variant
 
-## How do I connect to the "NAV" Wi-Fi at Fyrstikkallèen 1?
+## How do I connect to the "NAV" Wi-Fi at Fyrstikkalléen 1?
 Fill in the information as shown in the screenshot below:![wifi.png](wifi.png)
 
 
-## How do I print from Fyrstikkallèen 1?
+## How do I print from Fyrstikkalléen 1?
 https://github.com/navikt/ny-i-nav/blob/main/ny-unix.md#skrive-ut
 https://github.com/navikt/ny-i-nav/blob/main/add_nav_printers.sh
 
@@ -19,7 +19,7 @@ UEFI BIOS Version: R2XET35W (1.15)
 This unit comes without an operating system installed.
 Before you begin:
 
-- Have a USB flash drive ready containing the latest Ubuntu LTS (the Service Desk at Fyrstikkallèen 1 can lend out empty USB drives).
+- Have a USB flash drive ready containing the latest Ubuntu LTS (the Service Desk at Fyrstikkalléen 1 can lend out empty USB drives).
 
 > [!CAUTION]
 > Before installing Linux on the laptop, you must enable Secure Boot:
