@@ -8,6 +8,7 @@ Fyll inn informasjonen som vist i skjermbildet nedenfor:
 
 ## Hvordan skriver jeg ut i Fyrstikkalléen 1?
 [skrive ut](https://github.com/navikt/ny-i-nav/blob/main/ny-unix.md#skrive-ut)
+
 [legge til printer script](
 https://github.com/navikt/ny-i-nav/blob/main/add_nav_printers.sh)
 
