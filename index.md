@@ -1,6 +1,6 @@
 # Utviklere på Linux
 
-Welcome to our documentation.
+Velkommen til vår dokumentasjon.
 
 - [Order a Linux laptop](order-a-linux-laptop.md)
 - [Question and answer](qa.md)
