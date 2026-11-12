@@ -1,3 +1,3 @@
-# Utviklerer på linux
+# Utviklere på Linux
 
-https://navikt.github.io/utviklere-paa-linux/
+[Les dokumentasjonen](https://navikt.github.io/utviklere-paa-linux/).
