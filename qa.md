@@ -2,7 +2,7 @@
 
 ## Hvilken Linux-distribusjon bør jeg velge?
 
-Vi anbefaler den nyeste Ubuntu LTS-versjonen med skrivebordsmiljøet GNOME, siden dette er den eneste varianten som støttes offisielt.
+Vi anbefaler den nyeste Ubuntu LTS-versjonen med skrivebordsmiljøet GNOME, siden dette er den eneste varianten som støttes offisielt av [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/).
 
 ## Hvordan kobler jeg meg til det trådløse nettverket «NAV» i Fyrstikkalléen 1?
 

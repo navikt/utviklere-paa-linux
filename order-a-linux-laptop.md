@@ -25,6 +25,6 @@ Vi anbefaler at du sjekker at PC-en finnes i [listen over Ubuntu-sertifiserte b�
 Be også nærmeste leder om å godkjenne prisen på PC-en.
 
 > [!NOTE]
->
+> - Linux-laptoper kjøpes og leies ikkje så, viktig å ta gode valgt på laptoper
 > - Når du mottar maskinen, må du installere Ubuntu med full diskkryptering og TPM-støttet Secure Boot for å registrere den i `naisdevice`.
 > - På Linux er det bare tillatt å logge inn på Navs systemer via `naisdevice`.
