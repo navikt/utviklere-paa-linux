@@ -1,8 +1,7 @@
 # Spørsmål og svar
 
 ## Hvilken Linux-distribusjon bør jeg velge?
-
-Vi anbefaler den nyeste Ubuntu LTS-versjonen med skrivebordsmiljøet GNOME, siden dette er den eneste varianten som støttes offisielt av [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/).
+Sjekk hvilken distribusjon som støttes offisielt og fungerer  [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/).
 
 ## Hvordan kobler jeg meg til det trådløse nettverket «NAV» i Fyrstikkalléen 1?
 
@@ -22,8 +21,6 @@ Fyll inn informasjonen som vist i skjermbildet nedenfor:
 ## Hvordan setter jeg opp Ubuntu på en Lenovo ThinkPad P16s G4?
 
 UEFI BIOS-versjon: R2XET35W (1.15)
-
-Denne maskinen leveres uten operativsystem.
 
 Før du begynner:
 

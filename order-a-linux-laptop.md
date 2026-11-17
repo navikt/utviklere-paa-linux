@@ -1,5 +1,8 @@
 # Bestill en Linux-PC
 
+## PC-er
+TBD
+
 ## Bestillingsinstruksjoner
 
 1. Be nærmeste leder om å sende en e-post til Laila.Kaland@nav.no med følgende melding:
@@ -9,22 +12,10 @@
 
    Jeg ønsker å bestille følgende Linux-PC til min ansatt $fornavn $etternavn
 
-   PC: https://www.dustin.no/product/5020066246/thinkpad-p14s-g6
+   PC: $dustin-link
    Koststed: $koststed.
    Godkjenner: $seksjonsleder
    Varemottaker: $nærmesteleder
 
    Mvh $nærmesteleder
    ```
-
-## PC-er
-
-Du kan fritt velge en PC fra Dustin, så lenge den kan kjøre kun Linux og fungerer med [naisdevice](https://docs.nais.io/operate/naisdevice/how-to/install/).
-Vi anbefaler at du sjekker at PC-en finnes i [listen over Ubuntu-sertifiserte bærbare PC-er](https://ubuntu.com/certified/search?category=Laptop).
-
-Be også nærmeste leder om å godkjenne prisen på PC-en.
-
-> [!NOTE]
-> - Linux-laptoper kjøpes og leies ikkje. Så det er viktig å ta gode valgt på laptoper da vi er stuck med dei
-> - Når du mottar maskinen, må du installere Linux med full diskkryptering og TPM-støttet Secure Boot for å registrere den i `naisdevice`.
-> - På Linux er det bare tillatt å logge inn på Navs systemer via `naisdevice`.
